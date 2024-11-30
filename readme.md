@@ -15,26 +15,22 @@
 
 <h2 align="center"> Some More Project</h2>
 
-- 🔭 [Animate web]()
+<span >- 🔭 [Animate web](https://vasusrivastav.github.io/Animate-web-1/)</span>
+<span >- 🔭 [Premier UI](https://vasusrivastav.github.io/Premier-UI/)</span>
+<span>- 🔭 [Paste Code MERN](https://pastecode-mu.vercel.app/)</span>
+<span>- 🔭 [RealTimetracker](https://realtimetracker-42iy.onrender.com/)</span>
+<span>- 🔭 [Ecommerce By API](https://e-commerce-api-flame.vercel.app/)</span>
+<span>- 🔭 [Furniture-Store UI](https://vasusrivastav.github.io/Furniture-Store/)</span>
 
-- 🔭 [Premier UI](https://vasusrivastav.github.io/Premier-UI/)
+<span>- 🔭 [Landing Pg 5](https://vasusrivastav.github.io/Landing-Page-05/)</span>
+<span>- 🔭 [Landing Pg 4](https://vasusrivastav.github.io/Landing-Page-04/)</span>
+<span>- 🔭 [Landing Pg 3](https://vasusrivastav.github.io/Landing-Page-03/)</span>
+<span>- 🔭 [Landing Pg 2](https://vasusrivastav.github.io/Landing-Page-02/)</span>
+<span>- 🔭 [Guess-a-Number-JS](https://vasusrivastav.github.io/Guess-a-Number-JS/)</span>
+<span>- 🔭 [Move it](https://vasusrivastav.github.io/Move-it-Project/)</span>
+<span>- 🔭 [CodeStreet](https://vasusrivastav.github.io/CodeStreet/)</span>
 
-- 🔭 [Paste Code MERN](https://pastecode-mu.vercel.app/)
-
-- 🔭 [RealTimetracker](https://realtimetracker-42iy.onrender.com/)
-
-- 🔭 [Ecommerce By API](https://e-commerce-api-flame.vercel.app/)
-
-- 🔭 [Furniture-Store UI](https://vasusrivastav.github.io/Furniture-Store/)
-- 🔭 [Landing Pg 5](https://vasusrivastav.github.io/Landing-Page-05/)
-- 🔭 [Landing Pg 4](https://vasusrivastav.github.io/Landing-Page-04/)
-- 🔭 [Landing Pg 3](https://vasusrivastav.github.io/Landing-Page-03/)
-- 🔭 [Landing Pg 2](https://vasusrivastav.github.io/Landing-Page-02/)
 <!-- - 🔭 [Landing Pg 1](https://vasusrivastav.github.io/Landing-Page-01/) -->
-- 🔭 [Guess-a-Number-JS](https://vasusrivastav.github.io/Guess-a-Number-JS/)
-- 🔭 [Move it](https://vasusrivastav.github.io/Move-it-Project/)
-
-- 🔭 [CodeStreet](https://vasusrivastav.github.io/CodeStreet/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
