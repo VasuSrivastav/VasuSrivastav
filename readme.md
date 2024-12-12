@@ -11,9 +11,13 @@
 
 - 📫 How to reach me **vasusrivastav1998@gmail.com**
 
-- ⚡ FunPad :- **I like IOT want to build some iot devices.**
+- ⚡ FunPad :- **I like IOT, want to build something with iot devices.**
 
-<h2 align="center"> Some More Project</h2>
+<h2 align="center">Some Highlighted Projects.  All are live Hosted check repo.</h2>
+<span >- 🔭 [Quiz/Poll Web App](https://github.com/VasuSrivastav/Quiz-Poll-APP/)</span>
+<span >- 🔭 [QuackChat Web App](https://github.com/VasuSrivastav/QuackChat/)</span>
+<span >- 🔭 [Secret Kept Web App](https://github.com/VasuSrivastav/auth5/)</span>
+<span >- 🔭 [Uber Clone web -InProgress](https://github.com/VasuSrivastav/Uber/)</span>
 
 <span >- 🔭 [Animate web](https://vasusrivastav.github.io/Animate-web-1/)</span>
 <span >- 🔭 [Premier UI](https://vasusrivastav.github.io/Premier-UI/)</span>
@@ -39,16 +43,16 @@
 <!-- <a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/vasusrivastav_12/profilecard/?igsh=MXd2YjRiZzJqZHhveA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasusrivastav_12" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pinox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pinox" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/pinox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/pinox" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/u/pinox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pinox/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vasusri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vasusri/" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="" alt="react" width="40" height="40"/> </a> </p> -->
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spexcher&show_icons=true&theme=dark&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="" /></p> -->
+<!-- <p><img align="left" src="" alt="" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spexcher&show_icons=true&theme=dark&locale=en" alt="spexcher" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="" alt="" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spexcher&theme=dark" alt="spexcher" /></p> -->
+<!-- <p><img align="center" src="" alt="" /></p> -->
